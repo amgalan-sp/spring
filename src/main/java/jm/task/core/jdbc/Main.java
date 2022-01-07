@@ -11,7 +11,7 @@ public class Main {
         userServiceImpl.saveUser("Врунгель","Санни",(byte)(42));
         userServiceImpl.saveUser("Оуэн","Суинни",(byte)(32));
         System.out.println(userServiceImpl.getAllUsers());
-        userServiceImpl.cleanUsersTable();
-        userServiceImpl.dropUsersTable();
+//        userServiceImpl.cleanUsersTable();
+//        userServiceImpl.dropUsersTable();
     }
 }
