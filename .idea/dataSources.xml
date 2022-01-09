@@ -8,5 +8,16 @@
       <jdbc-url>jdbc:mysql://localhost:3306/springDB</jdbc-url>
       <working-dir>$ProjectFileDir$</working-dir>
     </data-source>
+    <data-source source="LOCAL" name="jm:task:core:jdbc:hibernate.cfg.xml/Hibernate" uuid="346d129a-0082-42ec-9627-0d3e8453bede">
+      <driver-ref>mysql.8</driver-ref>
+      <synchronize>true</synchronize>
+      <imported>true</imported>
+      <remarks>Hibernate
+
+/home/taiphing/IdeaProjects/spring/src/main/java/jm/task/core/jdbc/hibernate.cfg.xml</remarks>
+      <jdbc-driver>com.mysql.cj.jdbc.Driver</jdbc-driver>
+      <jdbc-url>jdbc:mysql://localhost:3306/springDB</jdbc-url>
+      <working-dir>$ProjectFileDir$</working-dir>
+    </data-source>
   </component>
 </project>
